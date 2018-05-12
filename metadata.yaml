@@ -1,0 +1,39 @@
+_repo: The-Affectionate-Shepherd_19902
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnfield, Richard
+    birthdate: 1574
+    deathdate: 1627
+    gutenberg_agent_id: '8950'
+    url: http://www.gutenberg.org/2009/agents/8950
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Barnfield
+  editor:
+    agent_name: Halliwell-Phillipps, J. O. (James Orchard)
+    aliases:
+    - Halliwell, James Orchard
+    - Halliwell, J. O. (James Orchard)
+    - Halliwell-Phillipps, James Orchard
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '8746'
+    url: http://www.gutenberg.org/2009/agents/8746
+    wikipedia: http://en.wikipedia.org/wiki/James_Orchard_Halliwell-Phillipps
+description: ''
+gutenberg_issued: '2006-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19902'
+  lccn: a 10000909
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral poetry, English'
+- !lcc 'PR'
+title: The Affectionate Shepherd
+url: http://www.gutenberg.org/ebooks/19902
